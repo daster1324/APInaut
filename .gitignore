@@ -1,3 +1,19 @@
+# Compiled Java class files
+*.class
+
+# Compiled Java JAR files
+*.jar
+
+# IntelliJ IDEA files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Gradle files
+build/
+.gradle/
+
 # Compiled class file
 *.class
 
